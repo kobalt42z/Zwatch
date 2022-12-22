@@ -7,7 +7,7 @@ import NavBar from '../components/NavBar/NavBar'
 const SharedLayout = () => {
     return (
         <>
-            <Header/>
+            {/* <Header/> */}
             <Outlet/>
         </>        
     )
